@@ -19,6 +19,15 @@ const products = [
       "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=700&q=80",
   },
   {
+    id: 7,
+    name: "مانتو کتان خاکی",
+    category: "women",
+    categoryName: "زنانه",
+    price: 850,
+    image:
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=700&q=80",
+  },
+  {
     id: 1,
     name: "کت لینن کلاسیک",
     category: "women",

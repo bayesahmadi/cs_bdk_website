@@ -19,6 +19,16 @@ const products = [
       "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=700&q=80",
   },
   {
+    id: 1,
+    name: "کت لینن کلاسیک",
+    category: "women",
+    categoryName: "زنانه",
+    price: 480,
+    image:
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=700&q=80",
+    badge: "جدید",
+  },
+  {
     id: 3,
     name: "کیف دوشی چرم",
     category: "accessory",
@@ -36,6 +46,16 @@ const products = [
     price: 910,
     image:
       "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=700&q=80",
+  },
+  {
+    id: 3,
+    name: "کیف دوشی چرم",
+    category: "accessory",
+    categoryName: "اکسسوری",
+    price: 540,
+    image:
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=700&q=80",
+    badge: "محبوب",
   },
   {
     id: 5,
@@ -75,13 +95,23 @@ const products = [
       "https://images.unsplash.com/photo-1617127365659-c47fa864d8bc?auto=format&fit=crop&w=700&q=80",
   },
   {
-    id: 8,
-    name: "کت اسپرت سرمه‌ای",
-    category: "men",
-    categoryName: "مردانه",
-    price: 470,
+    id: 6,
+    name: "عینک آفتابی رترو",
+    category: "accessory",
+    categoryName: "اکسسوری",
+    price: 690,
     image:
-      "https://images.unsplash.com/photo-1617127365659-c47fa864d8bc?auto=format&fit=crop&w=700&q=80",
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=700&q=80",
+    badge: "تخفیف ویژه",
+  },
+  {
+    id: 4,
+    name: "شلوار راسته کرم",
+    category: "women",
+    categoryName: "زنانه",
+    price: 910,
+    image:
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=700&q=80",
   },
   {
     id: 8,
@@ -93,6 +123,15 @@ const products = [
       "https://images.unsplash.com/photo-1617127365659-c47fa864d8bc?auto=format&fit=crop&w=700&q=80",
   },
   {
+    id: 7,
+    name: "مانتو کتان خاکی",
+    category: "women",
+    categoryName: "زنانه",
+    price: 850,
+    image:
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=700&q=80",
+  },
+  {
     id: 8,
     name: "کت اسپرت سرمه‌ای",
     category: "men",
@@ -100,6 +139,35 @@ const products = [
     price: 470,
     image:
       "https://images.unsplash.com/photo-1617127365659-c47fa864d8bc?auto=format&fit=crop&w=700&q=80",
+  },
+  {
+    id: 6,
+    name: "عینک آفتابی رترو",
+    category: "accessory",
+    categoryName: "اکسسوری",
+    price: 690,
+    image:
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=700&q=80",
+    badge: "تخفیف ویژه",
+  },
+  {
+    id: 8,
+    name: "کت اسپرت سرمه‌ای",
+    category: "men",
+    categoryName: "مردانه",
+    price: 470,
+    image:
+      "https://images.unsplash.com/photo-1617127365659-c47fa864d8bc?auto=format&fit=crop&w=700&q=80",
+  },
+  {
+    id: 3,
+    name: "کیف دوشی چرم",
+    category: "accessory",
+    categoryName: "اکسسوری",
+    price: 540,
+    image:
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=700&q=80",
+    badge: "محبوب",
   },
   {
     id: 8,

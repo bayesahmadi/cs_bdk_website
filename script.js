@@ -74,6 +74,42 @@ const products = [
     image:
       "https://images.unsplash.com/photo-1617127365659-c47fa864d8bc?auto=format&fit=crop&w=700&q=80",
   },
+  {
+    id: 8,
+    name: "کت اسپرت سرمه‌ای",
+    category: "men",
+    categoryName: "مردانه",
+    price: 470,
+    image:
+      "https://images.unsplash.com/photo-1617127365659-c47fa864d8bc?auto=format&fit=crop&w=700&q=80",
+  },
+  {
+    id: 8,
+    name: "کت اسپرت سرمه‌ای",
+    category: "men",
+    categoryName: "مردانه",
+    price: 470,
+    image:
+      "https://images.unsplash.com/photo-1617127365659-c47fa864d8bc?auto=format&fit=crop&w=700&q=80",
+  },
+  {
+    id: 8,
+    name: "کت اسپرت سرمه‌ای",
+    category: "men",
+    categoryName: "مردانه",
+    price: 470,
+    image:
+      "https://images.unsplash.com/photo-1617127365659-c47fa864d8bc?auto=format&fit=crop&w=700&q=80",
+  },
+  {
+    id: 8,
+    name: "کت اسپرت سرمه‌ای",
+    category: "men",
+    categoryName: "مردانه",
+    price: 470,
+    image:
+      "https://images.unsplash.com/photo-1617127365659-c47fa864d8bc?auto=format&fit=crop&w=700&q=80",
+  },
 ];
 
 let cart = JSON.parse(localStorage.getItem("ahmadian-cart") || "[]");

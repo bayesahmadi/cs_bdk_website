@@ -76,6 +76,15 @@ const products = [
       "https://images.unsplash.com/photo-1610652492500-ded49ceeb378?auto=format&fit=crop&w=700&q=80",
   },
   {
+    id: 7,
+    name: "مانتو کتان خاکی",
+    category: "women",
+    categoryName: "زنانه",
+    price: 850,
+    image:
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=700&q=80",
+  },
+  {
     id: 6,
     name: "عینک آفتابی رترو",
     category: "accessory",
